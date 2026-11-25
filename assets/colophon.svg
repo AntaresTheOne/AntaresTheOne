@@ -41,7 +41,7 @@
 <g class="meteor"><path d="M0 0L-150 -48" stroke="url(#meteor)" stroke-width="1.6" stroke-linecap="round"/><circle r="1.6" fill="#fff"/></g>
 <path d="M150 58.5H395M605 58.5H850" stroke="#D9B46C" stroke-opacity=".35"/>
 <text x="500" y="66" text-anchor="middle" class="it" font-size="32" fill="#ECE7F2">clear skies</text>
-<text x="500" y="96" text-anchor="middle" class="mono" font-size="11.5" fill="#7D7794">sky last observed 24 Nov 2026 · redrawn daily by GitHub Actions</text>
+<text x="500" y="96" text-anchor="middle" class="mono" font-size="11.5" fill="#7D7794">sky last observed 25 Nov 2026 · redrawn daily by GitHub Actions</text>
 </g>
 <rect x="10.5" y="10.5" width="979" height="99" rx="10" fill="none" stroke="#D9B46C" stroke-opacity=".24"/>
 <path d="M40 11v6M40 109v-6M60 11v3M60 109v-3M80 11v3M80 109v-3M100 11v3M100 109v-3M120 11v3M120 109v-3M140 11v6M140 109v-6M160 11v3M160 109v-3M180 11v3M180 109v-3M200 11v3M200 109v-3M220 11v3M220 109v-3M240 11v6M240 109v-6M260 11v3M260 109v-3M280 11v3M280 109v-3M300 11v3M300 109v-3M320 11v3M320 109v-3M340 11v6M340 109v-6M360 11v3M360 109v-3M380 11v3M380 109v-3M400 11v3M400 109v-3M420 11v3M420 109v-3M440 11v6M440 109v-6M460 11v3M460 109v-3M480 11v3M480 109v-3M500 11v3M500 109v-3M520 11v3M520 109v-3M540 11v6M540 109v-6M560 11v3M560 109v-3M580 11v3M580 109v-3M600 11v3M600 109v-3M620 11v3M620 109v-3M640 11v6M640 109v-6M660 11v3M660 109v-3M680 11v3M680 109v-3M700 11v3M700 109v-3M720 11v3M720 109v-3M740 11v6M740 109v-6M760 11v3M760 109v-3M780 11v3M780 109v-3M800 11v3M800 109v-3M820 11v3M820 109v-3M840 11v6M840 109v-6M860 11v3M860 109v-3M880 11v3M880 109v-3M900 11v3M900 109v-3M920 11v3M920 109v-3M940 11v6M940 109v-6M960 11v3M960 109v-3" stroke="#D9B46C" stroke-opacity=".28" stroke-width="1"/>
